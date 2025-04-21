@@ -1,0 +1,76 @@
+.container{
+    padding: 20px;
+}
+
+.title{
+    font-family: 'Cormorant Garamond';
+    text-align: center;
+    font-size: 2.5rem;
+    color: #5c5b5b;
+    margin-bottom: 8px;
+
+}
+
+.data, .data-table{
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f0f0f0;
+}
+
+
+.data label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #555;
+}
+
+
+.form-control {
+    width: 100%;
+    padding: 10px 12px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.btn-1 {
+    margin-top: 20px;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-1:hover {
+    background-color: #0056b3;
+}
+
+.btn-2 {
+    margin-top: 20px;
+    padding: 12px;
+    background-color: #ce3b3b;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-2:hover {
+    background-color: #b30027;
+}
