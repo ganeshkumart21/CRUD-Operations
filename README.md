@@ -26,5 +26,5 @@ A full-stack CRUD (Create, Read, Update, Delete) application built using:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ganeshkumart/crud-operations.git
+cd crud-operations
